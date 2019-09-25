@@ -8,9 +8,10 @@ assignees: ''
 ---
 
 **Some words from System Automation for z/OS team**
-We have set up a [Customer Corner in our Wiki](https://ibm.biz/sa_customer_corner), where customers can share their expertise of using System Automation for z/OS and learn from others. We believe your lessons, tips, or best practices of using SA can benefits a lot other users.  
+We have set up a [Customer Corner in our Wiki](https://ibm.biz/sa_customer_corner), where customers can share their expertise of using System Automation for z/OS and learn from others. We believe your lessons, tips, or best practices of using SA can benefit a lot other users.  
 Start your sharing now! After you contributed here, we will review and refine if necessary, and finally put it into our Customer Corner.
 
+<!-- Your contribution start from here. -->
 **Problem solved**
 What is the problem or pain that your tips/best practices/lessons learned can help resolve?
 
