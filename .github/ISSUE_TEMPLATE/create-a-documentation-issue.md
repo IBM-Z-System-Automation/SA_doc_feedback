@@ -2,7 +2,7 @@
 name: Create a documentation issue
 about: Create an issue that you encountered with System Automation for z/OS documentation
   to help us improve.
-title: Create a documention issue
+title: Create a documentation issue
 labels: ''
 assignees: ''
 
