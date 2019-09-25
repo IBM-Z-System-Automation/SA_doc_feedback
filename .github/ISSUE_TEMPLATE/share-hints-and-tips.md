@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Some words from System Automation for z/OS team**
-We have set up a [Customer Corner in our Wiki](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20System%20Automation/page/Customer's%20Corner), where customers can share their expertise of using System Automation for z/OS and learn from others. We believe your lessons, tips, or best practices of using SA can benefits a lot other users.  
+We have set up a [Customer Corner in our Wiki](https://ibm.biz/sa_customer_corner), where customers can share their expertise of using System Automation for z/OS and learn from others. We believe your lessons, tips, or best practices of using SA can benefits a lot other users.  
 Start your sharing now! After you contributed here, we will review and refine if necessary, and finally put it into our Customer Corner.
 
 **Problem solved**
