@@ -8,8 +8,12 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Which version, book, and page number**
+What is the product version, book name and page, where you find the issue? For example, System Automation for z/OS V4.1, Planning and Installation, Page 104.
+
+
+**Describe the issue**
+A detailed description of what the problem is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
